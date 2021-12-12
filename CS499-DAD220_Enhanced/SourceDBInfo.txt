@@ -1,0 +1,6 @@
+Link to MySQL DB that was used:
+
+https://dev.mysql.com/doc/employee/en/employees-installation.html
+
+Password in the Python file was set to Password123
+
